@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, c'est Jérôme !</h1>
-<h3 align="center">Développeur Fullstack en Belgique</h3>
+<h3 align="center">Junior Dev Fullstack en Belgique</h3>
 
 - 🔭 Je bosse actuellement sur **les derniers projets de Becode**
 
