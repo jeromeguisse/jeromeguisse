@@ -32,7 +32,7 @@
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-guisse/))  
 
 
-![gopher dancing](https://tenor.com/fr/view/gopher-shaking-gif-9529188413831971635)
+<div class="tenor-gif-embed" data-postid="9529188413831971635" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gopher-shaking-gif-9529188413831971635">Gopher Shaking Sticker</a>from <a href="https://tenor.com/search/gopher+shaking-stickers">Gopher Shaking Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
