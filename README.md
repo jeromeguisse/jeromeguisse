@@ -22,10 +22,6 @@
 
 ---
 
-## 🌟 Highlighted Projects
-
----
-
 ## 📈 Career Path
 - **2024–2027** → Bachelor in Application Development (evening classes)  
 - **Master in Information & Communication** and **Bachelor in English Literature**  
@@ -34,6 +30,9 @@
 
 ## 📬 Contact
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-guisse/))  
+
+
+![gopher dancing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ---
 
