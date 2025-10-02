@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jérôme Guisse  
+# 👋 Hi, 
 
 🎓 Third-year Computer Science student (Belgium) | 
 🌍 Passionate about **software development, digital strategy, and self-hosted solutions**  
