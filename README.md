@@ -1,10 +1,48 @@
-<h1 align="center">Salut 👋, c'est Jérôme !</h1>
-<h3 align="center">Apprenti Junior Dev Front-end en Belgique</h3>
+# 👋 Hi, I’m Jérôme Guisse  
 
-- 🔭 Je bosse actuellement sur **les derniers projets de Becode**
+🎓 Third-year Computer Science student (Belgium) | 
+🌍 Passionate about **software development, digital strategy, and self-hosted solutions**  
 
-- 📫 Vous pouvez me contacter à l'adresse : **hey@jeromeguisse.dev**
+---
 
-<h3 align="left">Mes langages et outils :</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 🎯 Currently working on **web development (Nuxt 3, TypeScript, Vue, Tailwind, Directus)**  
+- ⚙️ Exploring the **Go (Golang) ecosystem** 
+- 📊 Background in **Journalism, Communication & English literature**  
+- 🗂 Experience in **insurance & legal digitalization**, including compliance-focused web platforms  
+- 🛠 Homelab & self-hosting enthusiast (NixOS, Proxmox, NAS, automation)  
+- 💡 Strong interest in **teaching (FLE)** and **language learning (Japanese)**  
 
+---
+
+## 🛠 Tech Stack
+**Languages:** Go, TypeScript, C#, COBOL (beginner), SQL, JavaScript  
+**Frameworks & Tools:** Nuxt 3, Vue 3, Tailwind, Directus, Node.js, Plop.js, Git, Docker  
+**Other fields:** Digital marketing, SEO, UI/UX design (Figma), Compliance & LegalTech  
+
+---
+
+## 🌟 Highlighted Projects
+
+---
+
+## 📈 Career Path
+- **2024–2027** → Bachelor in Application Development (evening classes)  
+- **Master in Information & Communication** and **Bachelor in English Literature**  
+
+---
+
+## 📬 Contact
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-guisse/))  
+
+---
+
+## 🇯🇵 日本語
+こんにちは！ジェロームです。  
+ソフトウェア開発とデジタル戦略に情熱を持っています。  
+2025年に日本に行く予定で、将来的には日本で働きたいと思っています。  
+よろしくお願いします！  
+
+---
+
+✨ Always curious, always learning.  
