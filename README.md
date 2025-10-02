@@ -32,7 +32,7 @@
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-guisse/))  
 
 
-![gopher dancing](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![gopher dancing](https://tenor.com/fr/view/gopher-shaking-gif-9529188413831971635)
 
 ---
 
